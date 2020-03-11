@@ -26,7 +26,7 @@ async function init() {
       location.search = "?id=" + workout._id;
     }
     else {
-      newWorkout.classList.add("")
+      // newWorkout.classList.add("")
     }
   }
 }
